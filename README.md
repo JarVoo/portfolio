@@ -1,7 +1,9 @@
 # Jarred's Data Analyst Portfolio
 
 ## About Me
-Data analyst based in Gibraltar. Background in marine science,
+
+Data analyst based in Gibraltar but I want to move away. Background in marine science,
+
 yacht operations, and teaching. Focused on Power BI, SQL, and Python.
 
 ## Projects
