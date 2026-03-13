@@ -6,8 +6,11 @@ yacht operations, and teaching. Focused on Power BI, SQL, and Python.
 
 ## Projects
 ### Amazon Sales Analysis
+Using SQL and Python
 ### Web Traffic Analysis
+Using advanced SQL
 ### The Observatory
+A new project - still in progress
 
 ## Skills
 - SQL
