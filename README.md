@@ -17,6 +17,12 @@ A new project - still in progress
 - Power BI
 - Python
 - Git & GitHub
+- Excel
+
+## Goals
+- To become a skilled data analyst
+- To work for a big company
+- To be mentored
 
 ## Contact
 www.linkedin.com/in/yourprofile
